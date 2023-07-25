@@ -7,7 +7,7 @@
  *
  * Description: Runs an interactive or non-interactive
  * command line interpreter shell. Displays prompt,
- * reads input, tokenizes and executes commands.
+ * reads input, tokenizes then executes commands.
  *
  * Return: 0 on success
  */
